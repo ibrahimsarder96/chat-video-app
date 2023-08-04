@@ -19,7 +19,7 @@ const useStyles = makeStyles((theme) => ({
   },
   container: {
     width: '600px',
-    margin: '35px 0',
+    margin: '35px',
     padding: 0,
     [theme.breakpoints.down('xs')]: {
       width: '80%',
